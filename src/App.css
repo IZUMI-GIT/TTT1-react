@@ -1,0 +1,18 @@
+.parent{
+    display: grid;
+    grid-template-columns: repeat(3, 40px);
+    grid-template-rows: repeat(3, 40px);
+    padding: 10px;
+}
+
+.btnWin{
+    background-color: aquamarine;
+}
+
+.prevColor{
+    background-color: aqua;
+}
+
+.usercolor{
+    background-color: greenyellow;
+}
