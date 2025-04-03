@@ -1,5 +1,8 @@
 # React + Vite
+This repo is a basic TicTacToe- simple nots and crosses game.
+It contains features like undo , redo, reset, tracking moves, human vs computer(easy mode),highlighting the winner.
 
+working on features like dashboard page, multiplayer using websocket.io, human vs computer(hard mode).
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
