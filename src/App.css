@@ -16,3 +16,7 @@
 .usercolor{
     background-color: greenyellow;
 }
+
+.parent button:hover {
+    background-color: #00ff34;
+}
